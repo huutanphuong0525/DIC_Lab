@@ -45,8 +45,8 @@ This project provides a comprehensive guide to designing and analyzing digital i
 - Understanding memory design and its challenges.
 
 ## Analysis and Verification
-- **Power Distribution Network (PDN)**
-- **Pull-Up Network (PUN)**
+- **Pull Down (PDN)**
+- **Pull Up (PUN)**
 - **Timing Analysis**: Rise and fall time detection.
 - **Layout Design**: Practical tips and guidelines.
 - **Design Rule Checking (DRC)**
