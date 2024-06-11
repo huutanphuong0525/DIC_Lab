@@ -22,7 +22,7 @@ This project provides a comprehensive guide to designing and analyzing digital i
 ### Laboratory 2: Digital Logic Circuit
 ### Laboratory 3: Combinational and Sequential Circuit
 ### Laboratory 4: Arithmetic logic unit (ALU) & register file
-### Laboratory 3: Intro to Memory Circuit Design
+### Laboratory 5: Intro to Memory Circuit Design
 
 ## Tools and Libraries
 - **Cadence Virtuoso**: For schematic capture, layout, and simulation.
