@@ -18,6 +18,11 @@ Welcome to the Digital IC Laboratory repository. This project focuses on using t
 
 ## Project Description
 This project provides a comprehensive guide to designing and analyzing digital integrated circuits (ICs) using the FreePDK45 library in Cadence Virtuoso. It includes tutorials and examples ranging from basic logic gates to advanced digital systems.
+### Laboratory 1: MOS Device Characterization
+### Laboratory 2: Digital Logic Circuit
+### Laboratory 3: Combinational and Sequential Circuit
+### Laboratory 4: Arithmetic logic unit (ALU) & register file
+### Laboratory 3: Intro to Memory Circuit Design
 
 ## Tools and Libraries
 - **Cadence Virtuoso**: For schematic capture, layout, and simulation.
@@ -36,8 +41,10 @@ This project provides a comprehensive guide to designing and analyzing digital i
 - Analyzing the performance of these blocks in terms of power and speed.
 
 ## Advanced Digital Designs
-- **Arithmetic Logic Unit (ALU)**
-- **Static Random-Access Memory (SRAM)**
+- **Half & Full Adder (HA & FA): 28T (28 transistors) Full Adder**
+- **Register File (RF): 8-bits Register File**
+- **Arithmetic Logic Unit (ALU): 8 functions ALU (ADD/SUB/AND/OR/SR/SL/NOT/FWD)**
+- **Static Random-Access Memory (SRAM): 6T (6 transistors) SRAM**
 
 ### Learning Objectives
 - Implementing complex digital systems.
@@ -45,11 +52,12 @@ This project provides a comprehensive guide to designing and analyzing digital i
 - Understanding memory design and its challenges.
 
 ## Analysis and Verification
-- **Pull Down (PDN)**
-- **Pull Up (PUN)**
+- **DC, AC & Transient Analysis**
+- **Pull-down Network (PDN)**
+- **Pull-up Network (PUN)**
 - **Timing Analysis**: Rise and fall time detection.
 - **Layout Design**: Practical tips and guidelines.
-- **Design Rule Checking (DRC)**
+- **Design Rule Checker (DRC)**
 - **Layout Versus Schematic (LVS)**
 
 ### Learning Objectives
